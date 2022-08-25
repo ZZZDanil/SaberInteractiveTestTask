@@ -8,7 +8,7 @@ namespace SaberInteractiveTestTask
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //SerializeListRand();
+            SerializeListRand();
             DeserializeListRand();
         }
         static void SerializeListRand()
