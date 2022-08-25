@@ -1,5 +1,7 @@
 # SaberInteractiveTestTask
-TestTask
+
+[TestTask](https://github.com/ZZZDanil/SaberInteractiveTestTask/files/9422148/Testovoe_zadanie_programmist_igrovoy_logiki3.doc.pdf)
+
 
 # Task 1
 Made in VS 2019 on C#
